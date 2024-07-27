@@ -2,7 +2,7 @@
 
 ## Lemon Pie (g06)
 
-Team Members: 
+Contributors: 
 * Eric Chen - enchen@seas.upenn.edu
 * Jason Gao - jasongao@seas.upenn.edu
 * Aditya Sirohi - asirohi@seas.upenn.edu
@@ -26,9 +26,6 @@ Team Members:
 * Chat 
 * Scalability 
 * Friend Recommendations
-
-## Extra Credit Claimed
-
 * LinkedIn style connect and decline requests where users can “confirm” or “delete” follow requests. If confirmed, the user is then able to request to “follow back.” 
 * Privacy controls were implemented building off our follow/follow-back system such that a user’s home feed is only composed of their posts, their friends’ posts, and public posts such as Twitter (X) and federated posts. This privacy control system was essential in creating the privacy controls that Instagram utilizes.
 * File handling between the frontend and backend utilized Multer, a node.js middleware. Multer was used also for the S3 container/actor mapping endpoints.
