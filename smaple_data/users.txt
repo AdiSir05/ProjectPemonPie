@@ -1,0 +1,6 @@
+user_id,username,hashed_password,first_name,last_name,affiliation,email,birth_date,interests,bio,image_url
+1,jdoe,password123,John,Doe,Engineering,jdoe@example.com,1990-01-01,"Reading, Biking","Loves technology and the outdoors","https://example.com/images/jdoe.jpg"
+2,asmith,password123,Alice,Smith,Medicine,asmith@example.com,1992-05-15,"Hiking, Painting","Enthusiastic about art and health","https://example.com/images/asmith.jpg"
+3,bwilliams,password123,Bob,Williams,Literature,bwilliams@example.com,1988-09-24,"Writing, Gaming","Avid writer and gamer","https://example.com/images/bwilliams.jpg"
+4,cjohnson,password123,Clara,Johnson,Physics,cjohnson@example.com,1995-03-02,"Chess, Science","Passionate about physics and puzzles","https://example.com/images/cjohnson.jpg"
+5,dlee,password123,David,Lee,History,dlee@example.com,1991-11-12,"Traveling, Photography","History buff with a love for photography","https://example.com/images/dlee.jpg"

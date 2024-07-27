@@ -1,0 +1,7 @@
+post_id,user_id,post_date,post_time,post_text,image_url
+1,1,2022-04-10,04:40:53,Can't believe this happened!,https://example.com/images/post1.jpg
+2,1,2022-06-22,03:59:21,Loved every moment of this journey!,https://example.com/images/post2.jpg
+3,2,2022-10-07,07:14:42,This is absolutely fantastic!,https://example.com/images/post3.jpg
+4,3,2021-04-26,22:09:43,This is absolutely fantastic!,https://example.com/images/post1.jpg
+5,4,2022-07-17,17:15:44,Loved every moment of this journey!,https://example.com/images/post2.jpg
+6,5,2022-04-22,07:58:34,This is absolutely fantastic!,https://example.com/images/post2.jpg

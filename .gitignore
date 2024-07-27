@@ -1,0 +1,4 @@
+# Dependency directories
+**/chromadb/
+node_modules/
+

@@ -1,0 +1,6 @@
+social_rank/ComputeRank.class
+social_rank/DatabaseAccess.class
+social_rank/config/Config.class
+social_rank/CreateGraph$1.class
+social_rank/DatabaseManager.class
+social_rank/CreateGraph.class
